@@ -1,0 +1,42 @@
+payload:
+  # PROCESS-NAME
+  - PROCESS-NAME,AyuGram.exe,代理
+  - PROCESS-NAME,qbittorrent.exe,代理
+
+  # DOMAIN-SUFFIX / DOMAIN
+  - DOMAIN-SUFFIX,googleapis.com,代理
+  - DOMAIN-SUFFIX,workspace.org,代理
+  - DOMAIN-SUFFIX,sendfile.cn,代理
+  - DOMAIN-SUFFIX,t.me,代理
+  - DOMAIN-SUFFIX,github.com,代理
+  - DOMAIN-SUFFIX,google.com,代理
+  - DOMAIN-SUFFIX,1drv.ms,代理
+  - DOMAIN-SUFFIX,live.com,代理
+  - DOMAIN-SUFFIX,jisuts.com,代理
+  - DOMAIN-SUFFIX,okx.com,代理
+  - DOMAIN,docs.loliapi.com,代理
+  - DOMAIN-SUFFIX,imgur.com,代理
+  - DOMAIN-SUFFIX,linuxmirrors.cn,代理
+  - DOMAIN-SUFFIX,zipimg.cn,代理
+  - DOMAIN-SUFFIX,bing.com,代理
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,代理
+  - DOMAIN,services.googleapis.cn,代理
+  - DOMAIN-SUFFIX,ppgg.in,代理
+  - DOMAIN,docs.siliconflow.cn,代理
+  - DOMAIN-SUFFIX,gstatic.cn,代理
+  - DOMAIN-SUFFIX,120022.xyz,代理
+  - DOMAIN,tp.z.frp0.com,代理
+  - IP-CIDR,43.174.240.0/21,代理
+  - IP-CIDR,43.169.12.0/22,代理
+  - DOMAIN-SUFFIX,cloudinary.com,代理
+  - DOMAIN-SUFFIX,idcflare.com,代理
+  - DOMAIN-SUFFIX,pp.ua,代理
+  - DOMAIN-SUFFIX,890100.xyz,代理
+  - DOMAIN-SUFFIX,cs2ze.org,代理
+  - DOMAIN-SUFFIX,ygpy.net,代理
+  - DOMAIN-SUFFIX,chinadissent.net,代理
+  - DOMAIN-SUFFIX,googletagmanager.com,代理
+  - DOMAIN-SUFFIX,cloudflareinsights.com,代理
+  - DOMAIN-SUFFIX,gov.cn,代理
+  - DOMAIN-SUFFIX,mojie.app,代理
+  - DOMAIN-SUFFIX,.icu,代理
